@@ -1,4 +1,5 @@
-# ATTPR
+# App Tracking Transparency Dialog
+
 This plugin presents the app-tracking authorization request dialog and get the tracking authorization status.
 
 This is a plugin for Unreal Engine 4.
