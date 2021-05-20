@@ -1,4 +1,4 @@
-# App Tracking Transparency Dialog
+# App Tracking Transparency Dialog Plugin
 
 This plugin presents the app-tracking authorization request dialog and get the tracking authorization status.
 
