@@ -10,7 +10,20 @@ https://www.unrealengine.com/marketplace/ja/product/e8a0a0ed3f4b45e4b43723cf8e24
 
 ## Must be built with Xcode 12 and the iOS 14 SDK or later. 
 
+#### How to built on mac.
 
+1. Must be enrolled in the Apple Developer Program.
+
+2. Download and install the latest version Xcode on your Mac.
+3. Register your App to the Apple Developer site.
+4. Create the mobile provisioning file.
+5. Download and install on your Mac.
+6. If you have multiple versions of Xcode installed, must select the Xcode 12 or later. 
+   You see the selected Xcode version: 'Xcode > Preferences... > Locations > Command Line Tools' from the Xcode menu.
+7. Update the project settings of your game on UE4.
+   Project > Packaging: Decide whether to select 'For Distribution'
+   Platforms > iOS: Slecet 'Movie Provision' and set 'Bundle Information'.
+8. To build the project, select 'File> Package Project> iOS' from the menu.
 
 ## Supported Development Platforms
 
