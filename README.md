@@ -15,15 +15,25 @@ https://www.unrealengine.com/marketplace/ja/product/e8a0a0ed3f4b45e4b43723cf8e24
 1. Must be enrolled in the Apple Developer Program.
 
 2. Download and install the latest version Xcode on your Mac.
+
 3. Register your App to the Apple Developer site.
+
 4. Create the mobile provisioning file.
-5. Download and install on your Mac.
-6. If you have multiple versions of Xcode installed, must select the Xcode 12 or later. 
-   You see the selected Xcode version: 'Xcode > Preferences... > Locations > Command Line Tools' from the Xcode menu.
-7. Update the project settings of your game on UE4.
-   Project > Packaging: Decide whether to select 'For Distribution'
-   Platforms > iOS: Slecet 'Movie Provision' and set 'Bundle Information'.
-8. To build the project, select 'File> Package Project> iOS' from the menu.
+
+5. The mobile provisioning file download and install on your Mac.
+
+6. If you have multiple versions of Xcode installed, must select the Xcode 12 or later. <br>
+   You see the selected Xcode version: 'Xcode > Preferences... > Locations > Command Line Tools' from the Xcode menu.<br>
+   <img src="images/2030.png" alt="2030" style="zoom:33%;" />
+
+7. Update the project settings of your game on UE4.<br>
+   Project > Packaging: Decide whether to select 'For Distribution'<br>
+
+   <img src="images/2000.png" alt="2000" style="zoom: 33%;" /><br>Platforms > iOS: Slecet 'Mobile Provision' and set 'Bundle Information'.<br>
+   <img src="images/2010.png" alt="2010" style="zoom: 33%;" />
+
+8. To build the project, select 'File> Package Project> iOS' from the menu.<br>
+   <img src="images/2020.png" alt="2020" style="zoom: 33%;" />
 
 ## Supported Development Platforms
 
