@@ -35,6 +35,15 @@ https://www.unrealengine.com/marketplace/ja/product/e8a0a0ed3f4b45e4b43723cf8e24
 8. To build the project, select 'File> Package Project> iOS' from the menu.<br>
    <img src="images/2020.png" alt="2020" style="zoom: 33%;" />
 
+You see which the version of Xcode building the project in the output logs following.
+
+```
+ATHelper: Packaging (iOS):   Compiling with non-standard Xcode (xcode-select): /Applications/Xcode12.4.app/Contents/Developer/
+UATHelper: Packaging (iOS):   Compiling with iPhoneOS SDK 14.4
+```
+
+
+
 ## Supported Development Platforms
 
 - Windows
