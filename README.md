@@ -92,7 +92,7 @@ Put the "ATTPR" plugin into the plugins folder: "AttPermissionRequest/Plugins/AT
 
 ![1020](images/1020.png)
 
-・Call "RequestTrackingAuthorizationResult"  then presents the app-tracking authorization request dialog on iOS.(Does not present the dialog on other platforms.)
+・Call "RequestTrackingAuthorizationResult"  then presents the app-tracking authorization request dialog on iOS ***14.5 or later***.(Does not present the dialog on other platforms.)
 
 ![1030](images/1030.PNG)
 
