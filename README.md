@@ -10,6 +10,8 @@ https://www.unrealengine.com/marketplace/ja/product/e8a0a0ed3f4b45e4b43723cf8e24
 
 ## Must be built with Xcode 12 and the iOS 14 SDK or later. 
 
+## Must be running on iOS 14.5 or later. 
+
 #### How to built on mac.
 
 1. Must be enrolled in the Apple Developer Program.
