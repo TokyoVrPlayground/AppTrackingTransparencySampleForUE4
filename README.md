@@ -44,6 +44,23 @@ ATHelper: Packaging (iOS):   Compiling with non-standard Xcode (xcode-select): /
 UATHelper: Packaging (iOS):   Compiling with iPhoneOS SDK 14.4
 ```
 
+## If you got the following error
+
+```
+ERROR: Unable to instantiate module 'ATTPR': System.FormatException: Input string was not in a correct format.
+```
+
+If you already installed command line tools, please try to comment out the following code. 
+The xcrun installation path may not be "/usr/bin".
+
+Plugins/ATTPR/Source/ATTPR/ATTRP.Build.cs
+
+```
+// string SDKVersionString = Utils.RunLocalProcessAndReturnStdOut("/usr/bin/xcrun", "--sdk iphoneos --show-sdk-version");  
+// float SDKVersion = float.Parse(SDKVersionString);
+// if(SDKVersion >= 14f)
+```
+
 
 
 ## Supported Development Platforms
