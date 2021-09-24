@@ -104,6 +104,10 @@ The example project is under the "AttPermissionRequest" folder  in this GitHub r
 
 Install this plugin by "Epic Games Launcher" or put the "ATTPR" plugin into the plugins folder. ("AttPermissionRequest/Plugins/ATTPR")
 
+Enable this plugin.
+
+![3000](images/3000.png)
+
 "Mobile Provision" and "Bundle Identifier" must be set for  builds for iOS.<br>
 (Project Settings > Platforms > iOS) 
 
