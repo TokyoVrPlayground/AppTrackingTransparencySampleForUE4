@@ -102,7 +102,7 @@ See also: https://developer.apple.com/documentation/apptrackingtransparency/attr
 
 The example project is under the "AttPermissionRequest" folder  in this GitHub repository.
 
-Install this plugin by "Epic Games Launcher" or put the "ATTPR" plugin into the plugins folder. ("AttPermissionRequest/Plugins/ATTPR")
+Install this plugin by "Epic Games Launcher" or put the "ATTPR" plugin into the plugins folder ("AttPermissionRequest/Plugins/ATTPR") In this case must be c++ project.
 
 Enable this plugin.
 
