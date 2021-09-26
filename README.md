@@ -13,7 +13,7 @@ https://www.unrealengine.com/marketplace/ja/product/e8a0a0ed3f4b45e4b43723cf8e24
 You Must to follow the steps below.
 
 1. Install this plugin by Epic Games Launcher.
-2. Copy this plugin ("EpicGames/UE_4.26/Engine/Plugins/Marketplace/ATTPR") to your project plugin folder("Your_project_folder/Plugins").
+2. Copy this plugin ("EpicGames/UE_4.26/Engine/Plugins/Marketplace/ATTPR") to your project plugins folder("Your_project_folder/Plugins").
 3. Uninstall this plugin by Epic Games Launcher.
 4. Open your project and build for iOS on UE4. 
 
