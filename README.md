@@ -8,7 +8,13 @@ This is a plugin for Unreal Engine 4.
 
 https://www.unrealengine.com/marketplace/ja/product/e8a0a0ed3f4b45e4b43723cf8e243735
 
-## Must be built with Xcode 12 and the iOS 14 SDK or later. 
+## Must be built with Xcode 12 and the iOS 14 SDK or later and C++  project(Not Blueprint project). 
+
+You Must to follow the steps below.
+
+1. Install this plugin with Epic Games Launcher.
+2. Copy this plugin ("EpicGames/UE_4.26/Engine/Plugins/Marketplace/ATTPR") to your project plugin folder("Your_project_folder/Plugins").
+3. Uninstall  this plugin with Epic Games Launcher.
 
 ## Must be running on iOS 14.5 or later. 
 
@@ -102,7 +108,7 @@ See also: https://developer.apple.com/documentation/apptrackingtransparency/attr
 
 The example project is under the "AttPermissionRequest" folder  in this GitHub repository.
 
-Install this plugin by "Epic Games Launcher" or put the "ATTPR" plugin into the plugins folder ("AttPermissionRequest/Plugins/ATTPR") In this case must be c++ project.
+Put the "ATTPR" plugin into the plugins folder ("AttPermissionRequest/Plugins/ATTPR").
 
 Enable this plugin.
 
