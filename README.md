@@ -13,8 +13,10 @@ https://www.unrealengine.com/marketplace/ja/product/e8a0a0ed3f4b45e4b43723cf8e24
 You Must to follow the steps below.
 
 1. Install this plugin by Epic Games Launcher.
+   <img src="images/4000.png" alt="4000" style="zoom: 25%;" />
 2. Copy this plugin ("EpicGames/UE_4.26/Engine/Plugins/Marketplace/ATTPR") to your project plugins folder("Your_project_folder/Plugins").
 3. Uninstall this plugin by Epic Games Launcher.
+   <img src="images/4010.png" alt="4010" style="zoom:25%;" /><img src="images/4020.png" alt="4020" style="zoom:25%;" />
 4. Open your project(Must be C++  project) and build for iOS on UE4. 
 
 ## Must be running on iOS 14.5 or later. 
